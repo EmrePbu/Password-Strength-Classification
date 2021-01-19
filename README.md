@@ -10,9 +10,9 @@ pandas                 1.1.3
 scikit-learn           0.23.2
 matplotlib             3.3.2
 
-##Dataset
+## Dataset
 https://www.kaggle.com/bhavikbb/password-strength-classifier-dataset
 
-##Projenin tanıtımı
+## Projenin tanıtımı
 Projede data.csv dosyasında var olan şifre datalarını kullanarak daha sonra kendisine verilen şifreyi low, medium, high olarak sınıflandırıyor.
 
